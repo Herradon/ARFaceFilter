@@ -52,7 +52,7 @@ function init_aFrame(spec){
     init_threeScene(spec);
 }
 
-//build the 3D
+//insertar gafas
 function init_threeScene(spec){
     //COMPOSITE OBJECT WHICH WILL FOLLOW THE HEAD
     //in fact we create 2 objects to be able to shift the pivot point
